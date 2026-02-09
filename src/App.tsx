@@ -90,14 +90,8 @@ export default function App() {
       <section id="home">
         <HeroSection />
         <div className="w-full max-w-7xl mx-auto my-8 px-4">
-          {/* Super Bowl Pre-Order Special */}
+          {/* National Pizza Day Offer */}
           <div className="flex flex-col md:flex-row items-center justify-center gap-6 mb-6">
-            <img 
-              src="/newoffer.jpeg" 
-              alt="Manager's Pizza Super Bowl Pre-Order Special - 15% Off All Pizzas" 
-              className="w-full md:w-1/2 max-w-md h-auto rounded-lg shadow-lg"
-              loading="lazy"
-            />
             <img 
               src="/newoffer2.jpeg" 
               alt="Manager's Pizza National Pizza Day - 20% Off Big Pizza with Free Delivery" 

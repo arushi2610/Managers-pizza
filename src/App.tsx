@@ -90,16 +90,6 @@ export default function App() {
       <section id="home">
         <HeroSection />
         <div className="w-full max-w-7xl mx-auto my-8 px-4">
-          {/* National Pizza Day Offer */}
-          <div className="flex flex-col md:flex-row items-center justify-center gap-6 mb-6">
-            <img 
-              src="/newoffer2.jpeg" 
-              alt="Manager's Pizza National Pizza Day - 20% Off Big Pizza with Free Delivery" 
-              className="w-full md:w-1/2 max-w-md h-auto rounded-lg shadow-lg"
-              loading="lazy"
-            />
-          </div>
-          
           {/* Lunch Time Meal Deal */}
           <div className="flex flex-col md:flex-row items-center justify-center gap-6 mb-6">
             <img 
